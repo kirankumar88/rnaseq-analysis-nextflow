@@ -1,0 +1,4 @@
+sample,condition
+SRR12922090.bam,control
+SRR12922091.bam,control
+SRR12922098.bam,treated

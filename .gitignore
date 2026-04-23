@@ -1,0 +1,16 @@
+# Nextflow
+work/
+.nextflow*
+.nextflow.log*
+
+# Outputs
+results/
+
+# Data (large)
+*.fastq.gz
+*.bam
+*.sra
+
+# OS
+.DS_Store
+Thumbs.db
